@@ -18,8 +18,12 @@ Once downloaded, the dataset should be organized in the structure outlined in `D
 The code is developed and trained using MATLAB R2022b and requires the following toolboxes, which can be downloaded via the Add-On Explorer in MATLAB:
 - [Image Processing Toolbox](https://www.mathworks.com/products/image.html)
 - [Deep Learning Toolbox](https://www.mathworks.com/products/deep-learning.html)
+- [Parallel Computing Toolbox](https://www.mathworks.com/products/parallel-computing.html)
 - [Computer Vision Toolbox](https://www.mathworks.com/products/computer-vision.html)
 - [Aerospace Toolbox](https://www.mathworks.com/products/aerospace-toolbox.html)
+- [Computer Vision Toolbox Interface for OpenCV in MATLAB](https://www.mathworks.com/matlabcentral/fileexchange/47953-computer-vision-toolbox-interface-for-opencv-in-matlab)
+- [Computer Vision Toolbox Model for YOLO v4 Object Detection](https://www.mathworks.com/matlabcentral/fileexchange/107969-computer-vision-toolbox-model-for-yolo-v4-object-detection)
+- [Deep Learning Toolbox Model for MobileNet-v2 Network](https://www.mathworks.com/matlabcentral/fileexchange/70986-deep-learning-toolbox-model-for-mobilenet-v2-network)
 
 ## How to run scripts
 
